@@ -1,4 +1,4 @@
-# Customconfirmdecorator
+# Custom Confirm Reusable Decorator
 
 
 ## Confirmable Decorator
@@ -11,7 +11,12 @@ The Confirmable decorator is a reusable Angular decorator that adds a confirmati
 2. Customizable dialog titles and messages.
 3. Utilizes Angular Material for the dialog component.
 
+## How we using the Decorator
 ![image](https://github.com/user-attachments/assets/bd36fcda-08f8-4f4a-92b0-b373be45c7e4)
+
+## File Structure
+
+![image](https://github.com/user-attachments/assets/8fa553d9-5f26-4b68-a3fa-0e3bd8ec1736)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
