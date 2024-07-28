@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
+Confirmable Decorator
+
+The Confirmable decorator is a reusable Angular decorator that adds a confirmation dialog to any method. This is useful for actions that require user confirmation, such as deleting an item or submitting a form.
+
+Features
+
+Easily add confirmation dialogs to any method.
+Customizable dialog titles and messages.
+Utilizes Angular Material for the dialog component.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
