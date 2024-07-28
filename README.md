@@ -1,6 +1,5 @@
 # Customconfirmdecorator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 Confirmable Decorator
 
@@ -11,6 +10,9 @@ Features
 Easily add confirmation dialogs to any method.
 Customizable dialog titles and messages.
 Utilizes Angular Material for the dialog component.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
+
 
 ## Development server
 
